@@ -326,9 +326,9 @@ const addons = [
   {
     nombre: { es:'Dinosaurs', en:'Dinosaurs', pt:'Dinosaurs' },
     descripcion: {
-      es:'Revive la era prehistórica con más de 150 dinosaurios únicos. Dinosaurs Add-On incluye criaturas domesticables, ADN extraíble, vehículos, armas especiales y la posibilidad de transformarte en dinosaurio.',
-      en:'Bring the prehistoric age to life with over 150 unique dinosaurs. Dinosaurs Add-On features tamable creatures, extractable DNA, special weapons, vehicles, and the ability to morph into dinosaurs.',
-      pt:'Reviva a era pré-histórica com mais de 150 dinossauros únicos. O Dinosaurs Add-On inclui criaturas domesticáveis, extração de DNA, armas especiais, veículos e a habilidade de se transformar em dinossauro.'
+      es:'Agrega más de 140 dinosaurios con animaciones, sonidos y mecánicas únicas. Dinosaurs Add-On incluye huevos incubables, ADN, monturas, armas, vehículos y eventos como la luna roja.',
+      en:'Adds over 140 dinosaurs with animations, sounds, and unique mechanics. Dinosaurs Add-On features hatchable eggs, DNA, mounts, weapons, vehicles, and events like the red moon.',
+      pt:'Adiciona mais de 140 dinossauros com animações, sons e mecânicas únicas. O Dinosaurs Add-On inclui ovos incubáveis, DNA, montarias, armas, veículos e eventos como a lua vermelha.'
     },
     imagen:    'dinosaurs.jpg',
     url:       'https://www.mediafire.com/file/rhpp67y59dohlws/Dinosaurs.mcaddon/file',
@@ -607,7 +607,7 @@ const addons = [
     url:       'https://www.mediafire.com/file/eamuuoqwgz4vm8f/Nicos+Magic+Spells.mcaddon/file',
     version:   '1.21.70',
     downloads: 0,
-    fecha:     '2020-10-01'
+    fecha:     '2025-05-23'
   },
   {
     nombre: { es:'Gravestones', en:'Gravestones', pt:'Gravestones' },
@@ -620,7 +620,7 @@ const addons = [
     url:       'https://www.mediafire.com/file/aipxd675fnmxy38/Gravestones.mcaddon/file',
     version:   '1.21.0',
     downloads: 0,
-    fecha:     '2020-10-01'
+    fecha:     '2024-02-20'
   },
   {
     nombre: { es:'Legendary Texture Pack', en:'Legendary Texture Pack', pt:'Legendary Texture Pack' },
@@ -659,7 +659,7 @@ const addons = [
     url:       'https://www.mediafire.com/file/rqp0xaqqtzgzz1t/3D+Craft.mcpack/file',
     version:   '1.21.0',
     downloads: 0,
-    fecha:     '2020-10-01'
+    fecha:     '2023-07-25'
   },
   {
     nombre: { es:'Vehicles', en:'Vehicles', pt:'Vehicles' },
@@ -669,7 +669,7 @@ const addons = [
       pt:'Adiciona mais de 20 veículos funcionais como carros, tratores, aviões e reboques. O Vehicles Mod permite personalizar motores, rodas e cores, com sistema de combustível e estações de trabalho móveis.'
     },
     imagen:    'vehicles.jpg',
-    url:       '#',
+    url:       'https://www.mediafire.com/file/8l2wbkuxwir57u7/Vehicles.mcaddon/file',
     version:   '1.21.0',
     downloads: 0,
     fecha:     '2020-11-06'
@@ -682,10 +682,10 @@ const addons = [
       pt:'Invoque criaturas mágicas como golens de fogo, espectros de gelo e chefes elementais. O Arcane Creatures Add-On traz inimigos únicos, armas com efeitos visuais e estruturas encantadas para batalhas épicas.'
     },
     imagen:    'arcane_creatures.jpg',
-    url:       '#',
+    url:       'https://www.mediafire.com/file/a1cjfcouoac0nrn/Arcane+Creatures.mcaddon/file',
     version:   '1.21.0',
     downloads: 0,
-    fecha:     '2020-10-01'
+    fecha:     '2025-05-06'
   },
   {
     nombre: { es:'Pixels', en:'Pixels', pt:'Pixels' },
@@ -695,7 +695,7 @@ const addons = [
       pt:'Adiciona criaturas em estilo pixel com animações retrô, efeitos especiais e mecânicas únicas. O Pixels Add-On transforma o mundo com inimigos, mascotes e itens inspirados em jogos clássicos.'
     },
     imagen:    'pixels.jpg',
-    url:       '#',
+    url:       'https://www.mediafire.com/file/sr198lcu0fj6w16/Pixels.mcpack/file',
     version:   '1.18.0',
     downloads: 0,
     fecha:     '2024-11-12'
@@ -708,7 +708,7 @@ const addons = [
       pt:'Transforme o Minecraft Bedrock em uma aventura medieval com texturas rústicas, mobs personalizados e efeitos atmosféricos únicos. O Excalibur Texture Pack mantém a resolução clássica de 16x, possui interface medieval.'
     },
     imagen:    'excalibur.jpg',
-    url:       '#',
+    url:       'https://www.mediafire.com/file/aj9l9jfrhbkap6k/Excalibur.mcpack/file',
     version:   '1.20.0',
     downloads: 0,
     fecha:     '2024-05-28'
@@ -721,7 +721,7 @@ const addons = [
       pt:'Construa mansões de luxo com projetos automáticos, móveis elegantes e veículos exclusivos. O Millionaire Mansions Add-On traz seis estilos de mansão, mais de 40 móveis, mascotes, ferramentas de decoração e um sistema de moedas para desbloquear conteúdo.'
     },
     imagen:    'millionaire_mansions.jpg',
-    url:       '#',
+    url:       'https://www.mediafire.com/file/c44176rq3vu9mrt/Millionaire+Mansions.mcaddon/file',
     version:   '1.21.0',
     downloads: 0,
     fecha:     '2025-05-13'
@@ -734,153 +734,153 @@ const addons = [
       pt:'Explore mais de 20 novos biomas com animais únicos, estruturas especiais e blocos decorativos. O Biomes Add-On para Minecraft Bedrock transforma o mundo com tundras, oásis, vulcões, florestas mágicas e criaturas como cervos, guaxinins e yetis.'
     },
     imagen:    'biomes.jpg',
-    url:       '#',
+    url:       'https://www.mediafire.com/file/xuyithahinvbnev/Biomes.mcaddon/file',
     version:   '1.21.0',
     downloads: 0,
-    fecha:     '2020-10-01'
+    fecha:     '2024-03-05'
   },
   {
     nombre: { es:'Ultimate Textures 8x8', en:'Ultimate Textures 8x8', pt:'Ultimate Textures 8x8' },
     descripcion: {
-      es:'proximamente',
-      en:'proximamente',
-      pt:'proximamente'
+      es:'Simplifica Minecraft Bedrock con texturas en resolución 8x8, una interfaz personalizada y efectos visuales como niebla atmosférica, luna y sol en 3D. Ultimate Textures 8x8 incluye mobs rediseñados, fuego bajo para PvP y 12 skins exclusivas.',
+      en:'Streamline Minecraft Bedrock with 8x8 resolution textures, custom UI, and visual effects like atmospheric fog and 3D moon and sun. Ultimate Textures 8x8 features redesigned mobs, low fire for PvP, and 12 exclusive skins.',
+      pt:'Simplifique o Minecraft Bedrock com texturas em resolução 8x8, interface personalizada e efeitos visuais como névoa atmosférica e lua/sol em 3D. O Ultimate Textures 8x8 inclui mobs redesenhados, fogo baixo para PvP e 12 skins exclusivas.'
     },
     imagen:    'ultimate_textures_8x8.jpg',
-    url:       '#',
+    url:       'https://www.mediafire.com/file/a9k00pvgszchdmg/Ultimate+Textures+8x8.mcpack/file',
     version:   '1.19.0',
     downloads: 0,
-    fecha:     '2020-10-01'
+    fecha:     '2024-03-05'
   },
   {
     nombre: { es:'Lunar Moon', en:'Lunar Moon', pt:'Lunar Moon' },
     descripcion: {
-      es:'proximamente',
-      en:'proximamente',
-      pt:'proximamente'
+      es:'Transforma la noche en una experiencia aterradora con fases lunares siniestras, meteoritos, gravedad cero y criaturas poseídas. Lunar Moon Add-On para Minecraft Bedrock incluye 9 fases lunares, más de 10 mobs malditos, nuevos sets de armadura, armas especiales y eventos como la luna roja y el comerciante lunar.',
+      en:'Turn night into a terrifying experience with sinister moon phases, meteor showers, zero gravity, and possessed creatures. Lunar Moon Add-On for Minecraft Bedrock features 9 lunar phases, over 10 cursed mobs, new armor sets, special weapons, and events like the red moon and lunar trader.',
+      pt:'Transforme a noite em uma experiência assustadora com fases lunares sinistras, chuvas de meteoros, gravidade zero e criaturas possuídas. O Lunar Moon Add-On para Minecraft Bedrock inclui 9 fases lunares, mais de 10 mobs amaldiçoados, novos conjuntos de armaduras, armas especiais e eventos como a lua vermelha e o comerciante lunar.'
     },
     imagen:    'lunar_moon.jpg',
-    url:       '#',
+    url:       'https://www.mediafire.com/file/ninury55acnbqxd/Lunar+Moon.mcaddon/file',
     version:   '1.21.0',
     downloads: 0,
-    fecha:     '2020-10-01'
+    fecha:     '2025-06-03'
   },
   {
     nombre: { es:'Monsters', en:'Monsters', pt:'Monsters' },
     descripcion: {
-      es:'proximamente',
-      en:'proximamente',
-      pt:'proximamente'
+      es:'Agrega más de 20 monstruos únicos con habilidades especiales, jefes desafiantes y objetos personalizables. Monsters Add-On transforma Minecraft Bedrock con criaturas que aparecen en distintos biomas y eventos como la luna roja.',
+      en:'Adds over 20 unique monsters with special abilities, challenging bosses, and customizable items. Monsters Add-On transforms Minecraft Bedrock with creatures spawning across biomes and events like the red moon.',
+      pt:'Adiciona mais de 20 monstros únicos com habilidades especiais, chefes desafiadores e itens personalizáveis. O Monsters Add-On transforma o Minecraft Bedrock com criaturas em vários biomas e eventos como a lua vermelha.'
     },
     imagen:    'monsters.jpg',
-    url:       '#',
+    url:       'https://www.mediafire.com/file/18xo90ktizm6uhv/Monsters.mcaddon/file',
     version:   '1.21.40',
     downloads: 0,
-    fecha:     '2020-10-01'
+    fecha:     '2025-03-25'
   },
   {
     nombre: { es:'The Cursed Harvester', en:'The Cursed Harvester', pt:'The Cursed Harvester' },
     descripcion: {
-      es:'proximamente',
-      en:'proximamente',
-      pt:'proximamente'
+      es:'Agrega un ente maldito con IA avanzada, sonidos espeluznantes y eventos nocturnos. The Cursed Harvester Add-On transforma Minecraft Bedrock en una experiencia de terror con fases lunares, meteoritos y criaturas poseídas.',
+      en:'Adds a cursed entity with advanced AI, eerie sounds, and nighttime events. The Cursed Harvester Add-On turns Minecraft Bedrock into a horror experience with lunar phases, meteor showers, and possessed creatures.',
+      pt:'Adiciona uma entidade amaldiçoada com IA avançada, sons assustadores e eventos noturnos. O The Cursed Harvester Add-On transforma o Minecraft Bedrock em uma experiência de terror com fases lunares, meteoros e criaturas possuídas.'
     },
     imagen:    'the_cursed_harvester.jpg',
-    url:       '#',
+    url:       'https://www.mediafire.com/file/d4bg9m00i4htvcj/The+Cursed+Harvester.mcaddon/file',
     version:   '1.21.72',
     downloads: 0,
-    fecha:     '2020-10-01'
+    fecha:     '2025-05-03'
   },
   {
     nombre: { es:'Dinosaurs', en:'Dinosaurs', pt:'Dinosaurs' },
     descripcion: {
-      es:'proximamente',
-      en:'proximamente',
-      pt:'proximamente'
+      es:'Agrega más de 150 dinosaurios con animaciones, sonidos y mecánicas avanzadas. Dinosaurs Add-On incluye fósiles, ADN, incubadoras, monturas, armas especiales y eventos como la luna roja.',
+      en:'Adds over 150 dinosaurs with animations, sounds, and advanced mechanics. Dinosaurs Add-On features fossils, DNA, incubators, mounts, special weapons, and events like the red moon.',
+      pt:'Adiciona mais de 150 dinossauros com animações, sons e mecânicas avançadas. O Dinosaurs Add-On inclui fósseis, DNA, incubadoras, montarias, armas especiais e eventos como a lua vermelha.'
     },
     imagen:    'dinosaursb.jpg',
-    url:       '#',
+    url:       'https://www.mediafire.com/file/kdealu551kr96vb/DinosaursB.mcaddon/file',
     version:   '1.21.0',
     downloads: 0,
-    fecha:     '2020-10-01'
+    fecha:     '2025-06-18'
   },
   {
     nombre: { es:'Security Sandbox', en:'Security Sandbox', pt:'Security Sandbox' },
     descripcion: {
-      es:'proximamente',
-      en:'proximamente',
-      pt:'proximamente'
+      es:'Agrega sistemas de seguridad avanzados como láseres, cámaras, puertas blindadas, mechas personalizables y zonas protegidas. Security Sandbox Add-On para Minecraft Bedrock incluye más de 250 bloques falsos, trampas, vehículos, herramientas de supervivencia y teletransportación.',
+      en:'Adds advanced security systems like lasers, cameras, reinforced doors, customizable mechs, and protected zones. Security Sandbox Add-On for Minecraft Bedrock features over 250 fake blocks, traps, vehicles, survival tools, and teleportation.',
+      pt:'Adiciona sistemas de segurança avançados como lasers, câmeras, portas blindadas, mechas personalizáveis e zonas protegidas. O Security Sandbox Add-On para Minecraft Bedrock inclui mais de 250 blocos falsos, armadilhas, veículos, ferramentas de sobrevivência e teletransporte.'
     },
     imagen:    'security_sandbox.jpg',
-    url:       '#',
+    url:       'https://www.mediafire.com/file/szsltikd9puhrs3/Security+Sandbox.mcaddon/file',
     version:   '1.21.0',
     downloads: 0,
-    fecha:     '2020-10-01'
+    fecha:     '2024-10-01'
   },
   {
     nombre: { es:'Morph 2.0', en:'Morph 2.0', pt:'Morph 2.0' },
     descripcion: {
-      es:'proximamente',
-      en:'proximamente',
-      pt:'proximamente'
+      es:'Transforma tu personaje en mobs, bloques, ítems, muebles o personajes famosos. Morph 2.0 Add-On para Minecraft Bedrock incluye menú interactivo, habilidades especiales (como explosión de Creeper), camuflaje con el Solidificador y compatibilidad con Horror Mode.',
+      en:'Morph into mobs, blocks, items, furniture, or famous characters. Morph 2.0 Add-On for Minecraft Bedrock features an interactive menu, special abilities (like Creeper explosion), camouflage with the Solidifier, and Horror Mode support.',
+      pt:'Transforme-se em mobs, blocos, itens, móveis ou personagens famosos. O Morph 2.0 Add-On para Minecraft Bedrock inclui menu interativo, habilidades especiais (como explosão de Creeper), camuflagem com o Solidificador e suporte ao modo Horror.'
     },
     imagen:    'morph2.0.jpg',
-    url:       '#',
+    url:       'https://www.mediafire.com/file/42tcwgp3y869elw/Morph+2.0.mcaddon/file',
     version:   '1.21.0',
     downloads: 0,
-    fecha:     '2020-10-01'
+    fecha:     '2025-06-05'
   },
   {
     nombre: { es:'Raft Survival', en:'Raft Survival', pt:'Raft Survival' },
     descripcion: {
-      es:'proximamente',
-      en:'proximamente',
-      pt:'proximamente'
+      es:'Sobrevive en una balsa rodeada de océano, enfrentando piratas, tiburones y tormentas. Raft Survival Add-On para Minecraft Bedrock incluye barcos con velas animadas, animales marinos, herramientas de reparación y eventos como meteoritos.',
+      en:'Survive on a raft surrounded by ocean, facing pirates, sharks, and storms. Raft Survival Add-On for Minecraft Bedrock features animated sailboats, sea creatures, repair tools, and events like meteor showers.',
+      pt:'Sobreviva em uma jangada cercada por oceano, enfrentando piratas, tubarões e tempestades. O Raft Survival Add-On para Minecraft Bedrock inclui barcos com velas animadas, criaturas marinhas, ferramentas de reparo e eventos como chuvas de meteoros.'
     },
     imagen:    'raft_survival.jpg',
-    url:       '#',
+    url:       'https://www.mediafire.com/file/4y8w02epkbgm2hl/Raft+Survival.mcaddon/file',
     version:   '1.21.50',
     downloads: 0,
-    fecha:     '2020-10-01'
+    fecha:     '2025-01-19'
   },
   {
     nombre: { es:'Ultimate Blasters', en:'Ultimate Blasters', pt:'Ultimate Blasters' },
     descripcion: {
-      es:'proximamente',
-      en:'proximamente',
-      pt:'proximamente'
+      es:'Agrega más de 270 blasters con efectos únicos, máquinas 3D, armaduras y laboratorio personalizable. Ultimate Blasters Add-On para Minecraft Bedrock incluye sonidos, mejoras y bloques conectivos.',
+      en:'Adds over 270 blasters with unique effects, 3D machines, armor, and a customizable lab. Ultimate Blasters Add-On for Minecraft Bedrock features sounds, upgrades, and connective blocks.',
+      pt:'Adiciona mais de 270 blasters com efeitos únicos, máquinas 3D, armaduras e laboratório personalizável. O Ultimate Blasters Add-On para Minecraft Bedrock inclui sons, melhorias e blocos conectivos.'
     },
     imagen:    'ultimate_blasters.jpg',
-    url:       '#',
+    url:       'https://www.mediafire.com/file/j1tmto0ffm3eid1/Ultimate+Blasters.mcaddon/file',
     version:   '1.20.80',
     downloads: 0,
-    fecha:     '2020-10-01'
+    fecha:     '2024-10-19'
   },
   {
     nombre: { es:'Supercars', en:'Supercars', pt:'Supercars' },
     descripcion: {
-      es:'proximamente',
-      en:'proximamente',
-      pt:'proximamente'
+      es:'Agrega 18 superautos personalizables con sonidos, físicas y mecánicas de carrera. Supercars 2.0 Add-On para Minecraft Bedrock permite competir, derrapar y reparar vehículos en mapas urbanos o de velocidad.',
+      en:'Adds 18 customizable supercars with sounds, physics, and racing mechanics. Supercars 2.0 Add-On for Minecraft Bedrock lets you race, drift, and repair vehicles on city or speed maps.',
+      pt:'Adiciona 18 supercarros personalizáveis com sons, física e mecânicas de corrida. O Supercars 2.0 Add-On para Minecraft Bedrock permite competir, fazer drift e reparar veículos em mapas urbanos ou de velocidade.'
     },
     imagen:    'supercars.jpg',
-    url:       '#',
+    url:       'https://www.mediafire.com/file/fc9n6zstg2uhb1w/Supercars.mcaddon/file',
     version:   '1.20.50',
     downloads: 0,
-    fecha:     '2020-10-01'
+    fecha:     '2024-07-02'
   },
   {
     nombre: { es:'FantasyCraft', en:'FantasyCraft', pt:'FantasyCraft' },
     descripcion: {
-      es:'proximamente',
-      en:'proximamente',
-      pt:'proximamente'
+      es:'Agrega más de 60 criaturas de fantasía como dragones, grifos, hidras y gnomos comerciantes. FantasyCraft Add-On para Minecraft Bedrock incluye estructuras mágicas, eventos nocturnos y compatibilidad con cualquier mundo.',
+      en:'Adds over 60 fantasy creatures like dragons, griffins, hydras, and trading gnomes. FantasyCraft Add-On for Minecraft Bedrock features magical structures, nighttime events, and works in any world.',
+      pt:'Adiciona mais de 60 criaturas fantásticas como dragões, grifos, hidras e gnomos comerciantes. O FantasyCraft Add-On para Minecraft Bedrock inclui estruturas mágicas, eventos noturnos e funciona em qualquer mundo.'
     },
     imagen:    'fantasycraft.jpg',
-    url:       '#',
+    url:       'https://www.mediafire.com/file/p6tduhecngrmrdb/FantasyCraft.mcaddon/file',
     version:   '1.21.20',
     downloads: 0,
-    fecha:     '2020-10-01'
+    fecha:     '2024-12-24'
   }
 ];
 
