@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title data-i18n-key="appTitle">ModStone</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <button id="menu-toggle" aria-controls="side-menu" aria-expanded="false">⋮</button>
+
+  <header>
+    <h1 id="titulo" data-i18n-key="appTitle">ModStone</h1>
+    <div id="search-container">
+      <input
+        type="text"
+        id="buscador"
+        data-i18n-placeholder="searchPlaceholder"
+        placeholder="Buscar mods..."
+      >
+      <button id="btn-filtros" aria-expanded="false">
+        <img src="filtro.jpg" alt="Abrir filtros">
+      </button>
+    </div>
+    <div id="filtros">
+      <select id="filtro-version"></select>
+      <select id="filtro-popularidad"></select>
+      <select id="filtro-antiguedad"></select>
+    </div>
+  </header>
+
+  <main id="contenedor-mods" role="main"></main>
+
+  <div id="overlay"></div>
+  <nav id="side-menu" aria-label="Menú lateral">
+    <div id="menu-close" role="button" aria-label="Cerrar menú">→</div>
+    <ul>
+      <li><button id="btn-nav-addons"  data-i18n-key="navAddons">AddOns</button></li>
+      <li><button id="btn-nav-mundos"  data-i18n-key="navWorlds">Mapas</button></li>
+      <li>
+        <button id="btn-menu-idioma" data-i18n-key="menuLanguage">Idioma</button>
+        <select id="select-idioma"></select>
+      </li>
+      <li><button id="btn-theme-toggle" data-i18n-key="modeLight">Modo claro</button></li>
+      <li><button id="btn-colaboradores">Colaboradores</button></li>
+      <li><button id="btn-request">Solicitar un Mod/Mapa</button></li>
+
+      <!-- Movidos al final -->
+      <li><button id="btn-nav-privacy">Política de Privacidad</button></li>
+      <li><button id="btn-nav-about">Sobre Nosotros</button></li>
+      <li><button id="btn-nav-contact">Contacto</button></li>
+    </ul>
+  </nav>
+
+  <script src="script.js" defer></script>
+</body>
+</html>
